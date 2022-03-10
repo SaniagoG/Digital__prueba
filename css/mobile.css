@@ -1,0 +1,14 @@
+@media (max-width:600px) {
+    .products {
+        display: inherit;
+        height: auto;
+    }
+    .product {
+        margin-top: auto;
+    }
+    .def,
+    .forum {
+        display: inherit;
+        padding: 18%;
+    }
+}
